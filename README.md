@@ -1,4 +1,7 @@
 # Sistem Informasi Geografis Kota Semarang
+Sistem Informasi Geografis Sederhana menggunakan MYSQL untuk menyimpan data longitude latitude diambil dari Google Maps API ditampilkan dalam single marker dan multiple marker
+
+Sumber : https://github.com/sofyansetiawan/Sistem-Informasi-Geografis-dengan-PHP-dan-Google-Maps-API/tree/master
 # Perbandingan Dengan Sistem Sebelumnya
 Sebelum :
 
